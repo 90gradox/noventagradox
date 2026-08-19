@@ -1,0 +1,2 @@
+/* Temporary orange palette test sampled from the supplied swatch: #ff8a00. */
+:root{--red:#ff8a00;--dark-red:#b85f00}.button-primary:hover{background:#ff9c1a;box-shadow:0 10px 32px rgba(255,138,0,.45)}.project-overlay{background:linear-gradient(0deg,rgba(255,138,0,.9),transparent 68%)}.play-button span{box-shadow:0 0 20px rgba(255,138,0,.5)}.glass-section:before{background:radial-gradient(circle,rgba(255,138,0,.27),transparent 68%)}
